@@ -1,0 +1,18 @@
+{
+  "name": "domy",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yye0528/domy",
+  "authors": [
+    "Yulin Ye <yulinye.yy@gmail.com>"
+  ],
+  "description": "for learning JavaScript and DOM",
+  "main": "domy.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
